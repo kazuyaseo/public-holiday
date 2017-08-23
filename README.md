@@ -2,10 +2,6 @@
 
 * [Go](http://golang.org) Programming Language
 
-# Using from source
-
-[Go](http://golang.org), install it before.
-
 ## Build, install and run.
 
 ```
