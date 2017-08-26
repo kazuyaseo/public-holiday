@@ -1,0 +1,12 @@
+hash: 895da76f23081b0dd25ef96d9231d85a98a4cdffb0d99b9ddb0449d7b1c7f5d9
+updated: 2017-08-26T21:46:56.004397843+09:00
+imports:
+- name: golang.org/x/text
+  version: ac87088df8ef557f1e32cd00ed0b6fbc3f7ddafb
+  subpackages:
+  - encoding
+  - encoding/internal
+  - encoding/internal/identifier
+  - encoding/japanese
+  - transform
+testImports: []

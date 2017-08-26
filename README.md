@@ -2,11 +2,20 @@
 
 * [Go](http://golang.org) Programming Language
 
-## Build, install and run.
+## Build, install.
 
+### if you use Glide
 ```
-  go get golang.org/x/text/encoding/japanese
+  glide install
+```
+
+### Do not use glide
+```
+  golang.org/x/text/encoding/japanese
   go get golang.org/x/text/transform
+```
+
+## run
+```
   go run main.go
 ```
-
